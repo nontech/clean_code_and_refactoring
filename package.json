@@ -1,0 +1,29 @@
+{
+  "name": "clean_code_and_refactoring",
+  "version": "1.0.0",
+  "description": "This project is created to learn Refactoring based on his book",
+  "main": "statement.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "//jest_comment_setup": "https://stackoverflow.com/questions/35756479/does-jest-support-es6-import-export",
+  "jest": {
+    "testEnvironment": "jest-environment-node",
+    "transform": {}
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nontech/clean_code_and_refactoring.git"
+  },
+  "keywords": ["javascript"],
+  "author": "mukesh jaiswal jais.mukesh@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nontech/clean_code_and_refactoring/issues"
+  },
+  "homepage": "https://github.com/nontech/clean_code_and_refactoring#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
